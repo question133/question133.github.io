@@ -1,9 +1,11 @@
-title: 你的名字 · 个人博客
-description: 一个可以持续写作的个人博客
+title: question133 · 个人博客
+description: question133 的个人博客，记录 Markdown 写作、Jekyll 静态网站与项目实践。
 lang: zh-CN
-timezone: Asia/Singapore
+timezone: Asia/Kuala_Lumpur
 markdown: kramdown
 permalink: /posts/:title/
+url: https://question133.github.io
+baseurl: ""
 exclude:
   - README.md
   - Gemfile
